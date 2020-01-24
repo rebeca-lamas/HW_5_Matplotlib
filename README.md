@@ -1,1 +1,2 @@
 # Pyber Challenge
+This challenge examines a recordset of ride data for a ride sharing company. Multiple visualizations are created to identify trends in the data using Matplotlib, and Pandas. They include bubble plots to illustrate: average fare per city, total number of rides per city, total number of drivers per city and city type. Pie charts were created to illustrate: percent of total fares by city type, percent of total rides by city type, and percent of total drivers by city type.
